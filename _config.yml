@@ -28,7 +28,8 @@ twitter_username: dmrlx
 github_username:  dmrlx
 
 # Build settings
-theme: minima
+# Minima theme removed as it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
