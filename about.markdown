@@ -10,5 +10,5 @@ permalink: /about/
 В этом бложике собираю свои заметки о разных штуках, которыми сам пользуюсь, и которые, как мне кажется, могут быть интересны кому-то ещё.
 
 Если вам вдруг по какой-то причине понадобилось связаться со мной, то можете использовать один из следующих способов:
-- *telegram*: @dmrlx
-- *e-mail*: demuraalex@gmail.com
+- *telegram*: [@dmrlx](https://t.me/dmrlx)
+- *e-mail*: [demuraalex@gmail.com](mailto:demuraalex@gmail.com) 
