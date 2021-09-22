@@ -49,7 +49,7 @@ author: Alexander Demura
 plugins:
   - jekyll-feed
 
-permalink: /:title:output_ext
+permalink: /:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
